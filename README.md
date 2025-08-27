@@ -26,6 +26,7 @@
 - Profile Page
 - Get the feed and add the feed in th store
 - build the user card on feed
-- Edit profite Feature
+- Edit profile Feature
 - Show Toast Message on save of profile
-- See all my connections
+- new page - See all my connections
+- new page - See all my connection Requests
